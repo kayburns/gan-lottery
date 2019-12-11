@@ -1,3 +1,6 @@
 [submodule "pytorch-fid"]
 	path = pytorch-fid
 	url = https://github.com/kayburns/pytorch-fid.git
+[submodule "lottery-ticket-hypothesis"]
+	path = lottery-ticket-hypothesis
+	url = https://github.com/sanjanasrivastava/lottery-ticket-hypothesis.git
